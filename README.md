@@ -1,4 +1,4 @@
-# Curso JavaScript
+# Curso JavaScript_forked
 
 En este repositorio encontrarás los recursos para seguir el [Curso de _JavaScript_](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA) de [Jonathan MirCha](https://jonmircha.com/).
 
